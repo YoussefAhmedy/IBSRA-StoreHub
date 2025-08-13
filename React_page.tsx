@@ -24,7 +24,7 @@ const EcommercePaymentPage = () => {
       name: "Premium Wireless Headphones",
       price: 299.99,
       originalPrice: 399.99,
-      image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
+      image: "https://m.media-amazon.com/images/I/71sLOtsK2UL._UF894,1000_QL80_FMwebp_.jpg",
       rating: 4.8,
       reviews: 1247,
       features: ["Active Noise Cancelling", "30h Battery Life", "Premium Sound Quality", "Wireless Charging"]
@@ -34,7 +34,7 @@ const EcommercePaymentPage = () => {
       name: "Smart Fitness Watch",
       price: 199.99,
       originalPrice: 249.99,
-      image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=300&fit=crop",
+      image: "https://m.media-amazon.com/images/I/51GeUyZUB9L._UF894,1000_QL80_FMwebp_.jpg",
       rating: 4.6,
       reviews: 892,
       features: ["Heart Rate Monitor", "GPS Tracking", "Water Resistant", "7 Day Battery"]
@@ -44,7 +44,7 @@ const EcommercePaymentPage = () => {
       name: "Ultra-Book Laptop",
       price: 1299.99,
       originalPrice: 1499.99,
-      image: "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=300&fit=crop",
+      image: "https://m.media-amazon.com/images/I/61tsMYfb38L._UF894,1000_QL80_FMwebp_.jpg",
       rating: 4.9,
       reviews: 2156,
       features: ["Intel i7 Processor", "16GB RAM", "512GB SSD", "4K Display"]
